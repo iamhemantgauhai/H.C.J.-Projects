@@ -1,0 +1,122 @@
+nav{
+    width: 100%;
+    position: fixed;
+    background-color: rgba(128, 128, 128, 0.618);
+}
+
+.nav2{
+    margin: 0 0 0 6%;
+}
+
+body{
+    margin: 0;
+}
+
+.build{
+    border-radius: 50px;
+}
+
+.img4{
+    width: 45%;
+}
+
+.logo{
+    width: 80px;
+    height: 50px;
+    float: left;
+}
+
+.nva2{
+    padding: 0% 0% 0% 10%;
+    margin: 0;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  border: black;
+  border-style: outset;
+  
+}
+
+button{
+    color: white;
+    background-color: #111;
+    height: 20px;
+    margin: 0;
+}
+
+li {
+  float: left;
+  margin: 0;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  text-decoration: underline;
+}
+
+select{
+    color: white;
+    background-color: grey;
+    border-color: none;
+    border-style: none;
+    border-radius: none;
+    float: right;
+    margin: 15px 0 0 0;
+}
+
+button{
+    color: white;
+    width: 150px;
+    height: 30px;
+    margin: 8px 0 15px 50px;
+    padding: 5px 0 10px 0;
+}
+
+button a:hover{
+    color: black;
+    background-color: white;
+}
+
+select a:hover{
+    background-color: black;
+}
+
+.gaps{
+    padding: 0 5% 0 5%;
+}
+
+.sf-size{
+    margin: 15% 20% 0 20%;
+    padding: 0 10% 0 10%;
+}
+
+.img4{
+    float: left;
+    padding: 5% 5% 5% 5%;
+}
+
+.vid1{
+    float: right;
+    padding: 5% 5% 5% 5%;
+}
+
+.img5{
+    float: left;
+    padding: 5% 5% 5% 5%;
+}
+
+.img6{
+    float: right;
+    padding: 5% 5% 5% 5%;
+}
